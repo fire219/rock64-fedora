@@ -1,11 +1,11 @@
-#Fedora images for the Rock64
+# Fedora images for the Rock64
 
 Currently this repository is empty (of any actual code and is just being used as a placeholder in order to use Github for image releases.
 
 Root filesystem(s) from [kraxel.org](https://www.kraxel.org/repos/images/)
 Everything else (kernel, partition structure, boot parameters, etc) from [ayufan's linux-build images](https://github.com/ayufan-rock64/linux-build/releases)
 
-##How to use
+## How to use
 
 Just flash the image to an SD card with your tool of choice (dd, Win32DiskImager, etc). 
 
