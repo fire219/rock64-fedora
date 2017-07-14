@@ -2,8 +2,9 @@
 
 Currently this repository is empty (of any actual code and is just being used as a placeholder in order to use Github for image releases.
 
-Root filesystem(s) from [kraxel.org](https://www.kraxel.org/repos/images/)
-Everything else (kernel, partition structure, boot parameters, etc) from [ayufan's linux-build images](https://github.com/ayufan-rock64/linux-build/releases)
+Root filesystem(s) from [kraxel.org](https://www.kraxel.org/repos/images/).
+
+Everything else (kernel, partition structure, boot parameters, etc) from [ayufan's linux-build images](https://github.com/ayufan-rock64/linux-build/releases).
 
 ## How to use
 
