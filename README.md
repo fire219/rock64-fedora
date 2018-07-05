@@ -1,3 +1,5 @@
+# __*WARNING: THESE BUILDS ARE EXTREMELY OUT OF DATE. USING THEM IS NOT RECOMMENDED.*__
+
 # Fedora images for the Rock64
 
 Currently this repository is empty (of any actual code and is just being used as a placeholder in order to use Github for image releases.
